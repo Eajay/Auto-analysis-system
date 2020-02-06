@@ -7,14 +7,14 @@ The system is a python program designed for generating data preview charts based
 
 ### Installation
 
-The system requires several python libraries.
+The system requires several python libraries.\
 Install the dependencies by requirements.txt:
 ```sh
 $ pip3 install -r requirements.txt 
 ```
 
 #### Running code
-Run main.py file directly.
+Run main.py file directly.\
 Before generating charts, make sure click submit button.
 ![alt text](https://github.com/Eajay/Auto-analysis-system/blob/master/pictures/submit.png)
 
