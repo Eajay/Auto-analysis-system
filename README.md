@@ -14,7 +14,7 @@ $ pip3 install -r requirements.txt
 ```
 
 #### Running code
-Run main.py file directly
+Run main.py file directly.
 Before generating charts, make sure click submit button.
 ![alt text](https://github.com/Eajay/Auto-analysis-system/blob/master/pictures/submit.png)
 
