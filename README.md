@@ -18,9 +18,12 @@ Run main.py file directly
 Before generating charts, make sure click submit button.
 ![alt text](https://github.com/Eajay/Auto-analysis-system/blob/master/pictures/submit.png)
 
-### example pictures
+### Example pictures
+PCA 3D picures:
+![alt text](https://github.com/Eajay/Auto-analysis-system/blob/master/pictures/PCA%203D.png)
 
-
+Logistic regression results:
+![alt text](https://github.com/Eajay/Auto-analysis-system/blob/master/pictures/logistic%20regression.png)
 
 
 License
