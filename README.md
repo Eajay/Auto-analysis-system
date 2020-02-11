@@ -26,6 +26,10 @@ Logistic regression results:
 ![alt text](https://github.com/Eajay/Auto-analysis-system/blob/master/pictures/logistic%20regression.png)
 
 
+
+### video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j-L4UtVAlKU" target="_blank"><img src="http://img.youtube.com/vi/j-L4UtVAlKU/0.jpg" alt="IMAGE ALT TEXT HERE" width="360" height="260" border="10" /></a>
+
 License
 ----
 MIT
